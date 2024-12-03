@@ -1,5 +1,4 @@
-
-# 5500 presentations
+# Presentations
 
 * Physical location: Room 137, The Roux Institute at Northeastern University, 100 Fore St, Portland, ME
 * Virtual option: [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU2YzkxYjUtYjcwNi00NTU0LWJkNTYtZmQ2MGJkOGRkMjlj%40thread.v2/0?context=%7b%22Tid%22%3a%22a8eec281-aaa3-4dae-ac9b-9a398b9215e7%22%2c%22Oid%22%3a%2298c8c4a8-04aa-4eda-bf8b-20d2edce331c%22%7d)
