@@ -1,4 +1,3 @@
-
 # 5500 presentations
 
 * Physical location: Room 137, The Roux Institute at Northeastern University, 100 Fore St, Portland, ME
