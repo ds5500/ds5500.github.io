@@ -18,30 +18,3 @@
 | 9    | Bangor Savings   | [link](https://github.com/ds5500/project-Jeff-Roux) | 2:15  |
 | 2    | Coastal Flooding | [link](https://github.com/ds5500/project-dominicdill) | 2:30  |
 | 10   | Coastal Flooding | [link](https://github.com/ds5500/project-HEPINGSUN) | 2:45  |
-
-## Teams
-
-* Team 1. Traffic
-  * Pratyaksh Bhalla
-  * Jennifer Lee
-  * Zhaojing Liu
-* Team 2. Coastal Flooding
-  * Donald Dill
-* Team 3. OHDSI #1
-  * Casey Tilton
-* Team 4. OHDSI #2 
-  * Jonas Eichenlaub
-* Team 5. OHDSI #3
-  * Qiushi Xia
-* Team 6. Sierra Club
-  * Darren Fishell
-* Team 7. tRNA
-  * Varun Guttikonda
-  * Samee Mushtak
-* Team 8. 911
-  * Yue Huang
-  * Ruyang Wang
-* Team 9. Bangor Savings
-  * Jeffrey Turgeon
-* Team 10. Coastal Flooding
-  * Heping Sun
